@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rabdaaatir
+- 👋 Hi, I’m @rabdaaatir  preferred_name = Mahum 
   
 - 👀 Making machines able to think, see and feel is my pasion >=  CODING </>
   
