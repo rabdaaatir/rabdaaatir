@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @rabdaaatir
-- 👀 I’m interested in giving ability to machines to speak, listen and see -> Machine Learning & Data Science
-- 🌱 I’m currently learning MLOps 
-- 💞️ I’m looking to collaborate on any machne learning project 
-- 📫 How to reach me ...
+  
+- 👀 Making machines able to think, see and feel is my pasion >=  CODING </>
+  
+- 🌱 Artificial Intelligence Engineering
+  
+- 🐍 Python, Js, Java & R 
+  
+- 💞️ Looking to collaborate on any Machine Learning or AI project.
+  
+- 📫 How to reach me ->
+mahumaatir14@gmail.com
 
-<!---
-rabdaaatir/rabdaaatir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
