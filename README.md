@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rabdaaatir  preferred_name = Mahum 
-  
-- 👀 Making machines able to think, see and feel is my pasion >=  CODING </>
-  
+- 👋 Hi, I’m @rabdaaatir  preferred_name = Mahum
+
 - 🌱 Artificial Intelligence Engineering
+  
+- 👀 Making machines able to think, see and feel is my passion >=  CODING </>
   
 - 🐍 Python, Js, Java & R 
   
